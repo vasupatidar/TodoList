@@ -11,6 +11,7 @@ This ToDo list application is a simple and lightweight tool to help you manage y
 - **Delete Tasks:** Remove tasks that you no longer need.
 - **Add Date:** Add due date to the Task.
 - **Responsive Design:** The app is designed to work seamlessly on various devices.
+- **LocalStorage:** Used local storage to Save the tasks between page reloads.
 
 --How to run the application --
 
